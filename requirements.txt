@@ -1,1 +1,3 @@
 ccxt
+gspread
+oauth2client
